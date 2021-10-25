@@ -26,7 +26,7 @@ Wʀɪᴛᴇ Mᴏᴠɪᴇs Nᴀᴍᴇ Oɴʟʏ
 <b>🔅 @MoviesHubFlix 🔅</b>
 """
     
-    ABOUT_TEXT = """<b>🔸 Name</b> : <b>Ⲕⲓʀⲁ Ϝⳑⲓⲭ</b>
+    ABOUT_TEXT = """<b>🔸 Name</b> : <b>S𝐩ᵢ𝚍𝚍y</b>
     
 <b>🔹 Developer</b> : <b><i><a href="https://t.me/Bot_Flix">Bot_Flix</a></i></b>
 
